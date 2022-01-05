@@ -1,0 +1,124 @@
+.container{
+   display: flex;
+   flex-wrap: nowrap;
+   height: 95vh;
+   align-items: center;
+   width: 60%;
+   margin: 10% auto;
+   
+}
+
+.first h1{
+    font-family: big shoulders display;  
+    font-size: 40px; 
+}    
+
+.first{
+    letter-spacing: .5px;
+    background-color: hsl(31, 77%, 52%);
+    font-size: 15px;
+    font-family: lexend deca;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    text-align: left;
+    border-radius: 7px 0 0 7px;
+}
+
+
+.second h2{
+    font-family: big shoulders display;
+    font-size: 35px;
+}
+.second{
+    letter-spacing: .5px;
+    background-color: hsl(184,100%,22%);
+    font-size: 15px;
+    font-family: lexend deca;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    text-align: left;
+    border-radius: 0 0 0 0;
+}
+    
+
+.third h3{
+    font-family: big shoulders display;
+    font-size: 29px;
+}
+
+.third{
+    letter-spacing: .5px;
+    background-color: hsl(179, 100%, 13%);
+    font-size: 16px;
+    font-family: lexend deca;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    text-align: left;
+    border-radius: 0 7px 7px 0;
+}
+
+
+.btn1{
+    background-color:  hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+    cursor: pointer;
+    font-family: lexend deca;
+    margin-top: 20%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 2rem;
+    border: 2px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 10%;
+   
+}
+
+.btn2{
+    background-color:  hsl(0, 0%, 95%);
+    color: hsl(184,100%,22%);
+    cursor: pointer;
+    font-family: lexend deca;
+    margin-top: 20%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;    
+    border-radius: 2rem;
+    border: 2px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 10%;
+   
+}
+.btn3{
+    background-color:  hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+    cursor: pointer;
+    font-family: lexend deca;
+    margin-top: 20%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 2rem;
+    border: 2px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 10%;
+    
+}
